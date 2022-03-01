@@ -1,0 +1,427 @@
+Name	Set	ImageFile	Unique	Type	Cost	Mission/DilemmaType	Span	Points	Quadrant	Affiliation	Icons	Staff	Keywords	Class	Species	Skills	Integrity/Range	Cunning/Weapons	Strength/Shields	Text
+A Living Death	P	p001	N	Dilemma	2	P														"Place this dilemma on this location. Each personnel on this planet who does not have Treachery is attributes -1. At the end of this turn, this dilemma is overcome."
+Aggressive Behavior	P	p002	N	Dilemma	4	S							Damage - This ship is attributes -2.							"Unless you have 2 Anthropology or 2 Leadership and Weapons>8, randomly select a personnel to be killed, all your other personnel are stopped, and this dilemma is placed on your ship."
+Alien Abduction	P	p003	N	Dilemma	1	S														"Unless you have 2 Engineer and Physics or Medical and Transporters, randomly select three personnel to be stopped."
+An Issue of Trust	P	p004	N	Dilemma	4	D														"Unless you have Honor or Treachery, all your personnel are stopped. If you have two or more personnel who have Honor or Treachery, randomly select all but one of those personnel to be stopped."
+Antedean Assassins	P	p005	N	Dilemma	3	D														"Unless you have a personnel who has 2 Anthropology or a personnel who has 2 Telepathy, your opponent chooses an Anthropology or Telepathy personnel to be stopped.  If your opponent cannot, all your personnel are stopped and this dilemma returns to its owner's dilemma pile."
+Armus Roulette	P	p006	N	Dilemma	4	P														"Randomly select four personnel. Unless they have Cunning>22 or one of them has Cunning>7, your opponent chooses one of them to be killed, then the other three are stopped."
+Assassination Attempt	P	p007	N	Dilemma	4	P														Randomly select two personnel. Each of those personnel who does not have Treachery is killed.
+Assassin's Blade	P	p008	N	Dilemma	3	D														"Unless you have 2 Security or Cunning>26, your opponent chooses a personnel (except an Android or a Shape-shifter) to be killed, then all your other personnel are stopped and this dilemma returns to its owner's dilemma pile."
+Authenticate Artifacts	P	p009	N	Dilemma	2	P														"Unless you have a personnel who has 2 Anthropology or a personnel who has 2 Archaeology, your opponent chooses an Anthropology or Archaeology personnel to be stopped. If your opponent cannot, all your personnel are stopped and this dilemma returns to its owner's dilemma pile."
+Automated Weapons	P	p010	N	Dilemma	3	P														"Unless you have 2 Security or a Hand Weapon, randomly select a personnel to be killed, then all your other personnel are stopped and this dilemma returns to its owner's dilemma pile."
+Blended	P	p011	N	Dilemma	2	P														"Unless you have Diplomacy or Telepathy, all your personnel are stopped. If you have two or more personnel who have Diplomacy or Telepathy, randomly select all but one of those personnel to be stopped."
+Bynars' Password	P	p012	N	Dilemma	3	D														"Unless you have a personnel who has 2 Engineer or a personnel who has 2 Programming, your opponent chooses an Engineer or Programming personnel to be stopped. If your opponent cannot, all your personnel are stopped and this dilemma returns to its owner's dilemma pile."
+Captain's Holiday	P	p013	N	Dilemma	3	P														"Unless you have 2 Archaeology or 2 Geology, all your personnel are stopped and this dilemma returns to its owner's dilemma pile."
+Cave-In	P	p014	N	Dilemma	1	P							Consume: 1. (Your opponent places the top card of his or her dilemma pile face up beneath this location.)							"Unless you have 2 Engineer and Transporters or Geology, Officer, and Strength>35, randomly select two personnel to return to their owner's hand."
+Command Decisions	P	p015	N	Dilemma	1	S														"Choose a personnel who has Leadership or Officer to be stopped. If you cannot, randomly select a personnel to be killed."
+Console Overload	P	p016	N	Dilemma	1	S														"Unless you have 2 Engineer or 2 Programming, choose a personnel who has Medical or Science to be stopped, then this dilemma returns to its owner's dilemma pile."
+Contamination	P	p017	N	Dilemma	2	D														"Unless you have Engineer and Physics or 2 Exobiology, all your Medical personnel are stopped and this dilemma returns to its owner's dilemma pile."
+Coolant Leak	P	p018	N	Dilemma	4	D														"Unless you have Engineer or a personnel who has a cost of 4 or more, all your personnel are stopped. If you have two or more personnel who have Engineer or cost 1 or less, randomly select all but one of those personnel to be stopped."
+Crippling Attack	P	p019	N	Dilemma	3	S							Damage - This ship is attributes -2.							"Unless you have 2 Leadership and Officer or 2 Navigation and Shields>6, randomly select a personnel to be killed, then this dilemma is placed on your ship."
+Debris Field	P	p020	N	Dilemma	1	S														"Unless you have Astrometrics or Navigation, all your Engineer personnel are stopped and this dilemma returns to its owner's dilemma pile."
+Disruptor Accident	P	p021	N	Dilemma	3	S														"Randomly select a personnel. Unless you choose to kill that personnel, he or she and a second randomly selected personnel are stopped."
+DNA Analysis	P	p022	N	Dilemma	3	D														"Unless you have a personnel who has 2 Medical or a personnel who has 2 Science, your opponent chooses a Medical or Science personnel to be stopped. If your opponent cannot, all your personnel are stopped and this dilemma returns to its owner's dilemma pile."
+Dressing Down	P	p023	N	Dilemma	3	D														"Randomly select three personnel. If the cost of any of those personnel is 1, all three are stopped."
+Drumhead	P	p024	N	Dilemma	3	S														"Unless you have Law, randomly select a personnel who has Integrity<4 to be placed in its owner's discard pile. If you cannot, all your personnel are stopped and this dilemma returns to its owner's dilemma pile."
+Enemy Boarding Party	P	p025	N	Dilemma	4	S														Randomly select three personnel. Each of those personnel who has Strength<6 is killed.
+Equipment Malfunction	P	p026	N	Dilemma	1	D														Return all your equipment to their owner's hands.
+Explosive Decompression	P	p027	N	Dilemma	4	S														"Randomly select a personnel to be killed. If you still have nine personnel remaining, randomly select a second personnel to be killed. If you still have ten personnel remaining, randomly select a third personnel to be killed."
+Flim-Flam Artist	P	p028	N	Dilemma	3	P														"Unless you have Diplomacy and 2 Programming or Law and Cunning>32, all your personnel are stopped, your opponent may draw a card, and this dilemma is returned to its owner's dilemma pile."
+Gravimetric Distortion	P	p029	N	Dilemma	3	S							Damage - This ship is attributes -2.							"Unless you have 2 Astrometrics or 3 Engineer or a personnel who has 2 Navigation, all your personnel are stopped and this dilemma is placed on your ship."
+Hull Breach	P	p030	N	Dilemma	2	S														"Randomly select a personnel to be stopped. Unless you reveal an Astrometrics personnel from your hand or reveal a Navigation personnel from your hand, that personnel is killed instead."
+Hunter Gangs	P	p031	N	Dilemma	2	P														Randomly select two personnel. Each of those personnel who has Cunning+Strength<11 is killed.
+Inside Collaborators	P	p032	N	Dilemma	3	D														"Unless you have a personnel who has 2 Diplomacy or a personnel who has 2 Treachery, your opponent chooses a Diplomacy or Treachery personnel to be stopped. If your opponent cannot, all your personnel are stopped and this dilemma returns to its owner's dilemma pile."
+Invidium Leak	P	p033	N	Dilemma	1	S														"Unless you have Engineer and 2 Programming or 2 Medical, all your personnel are stopped."
+Kolaran Raiders	P	p034	N	Dilemma	1	P														"Choose a personnel who has Leadership or Security to be stopped. If you cannot, randomly select a personnel to be killed."
+Limited Welcome	P	p035	N	Dilemma	2	D														"Randomly select nine personnel. All your other personnel are stopped. Place this dilemma on you current objective. When you attempt this objective again, after your opponent draws dilemmas, he or she may take this dilemma and add it to those drawn."
+Maglock	P	p036	N	Dilemma	3	S														"Unless you have 3 Officer or 3 Programming, all your personnel are stopped and this dilemma returns to its owner's dilemma pile."
+Magnetic Field Disruptions	P	p037	N	Dilemma	1	S														"Choose a personnel who has Astrometrics or Navigation to be stopped. If you cannot, randomly select a personnel to be killed."
+Microbrain	P	p038	N	Dilemma	3	D														"Unless you have a personnel who has 2 Exobiology or a personnel who has 2 Geology, your opponent chooses an Exobiology or Geology personnel to be stopped. If your opponent cannot, all your personnel are stopped and this dilemma returns to its owner's dilemma pile."
+Moral Choice	P	p039	N	Dilemma	2	D														"Randomly select three personnel. If any of those personnel is a [fed] personnel, they are all stopped. Otherwise, choose one of those personnel to be stopped."
+Murder Investigation	P	p040	N	Dilemma	4	D														"Randomly select three personnel. If any of those personnel has Security, all three are stopped."
+Nanite Attack	P	p041	N	Dilemma	3	S							"Damage - At the end of each of your turns, randomly select a personnel aboard this ship to be killed."							"Unless you have 2 Diplomacy and 2 Engineer or 2 Security and a Hand Weapon, this dilemma is placed on your ship."
+None Shall Pass	P	p042	N	Dilemma	3	P														"Unless you have 2 Anthropology or 3 Diplomacy or Strength>35, all your personnel are stopped and this dilemma returns to its owner's dilemma pile."
+Ornaran Threat	P	p043	N	Dilemma	4	D														"Randomly select a personnel to be stopped. Unless you have Diplomacy and Medical or 2 Security, that personnel is killed instead, then all your other personnel are stopped and this dilemma returns to its owner's dilemma pile."
+Overwhelmed	P	p044	N	Dilemma	4	D														"Place this dilemma on this location. When a personnel facing a dilemma at this location uses his or her skills, he or she is stopped. At the end of this turn, return this dilemma to its owner's dilemma pile."
+Personal Duty	P	p045	N	Dilemma	2	S														"Unless you have Leadership or Officer, all your personnel are stopped. If you have two or more personnel who have Leadership or Officer, randomly select all but one of those personnel to be stopped."
+Picking Up the Pieces	P	p046	N	Dilemma	2	P														"Unless you have Geology or Programming, all your personnel are stopped. If you have two or more personnel who have Geology or Programming, randomly select all but one of those personnel to be stopped."
+Primitive Culture	P	p047	N	Dilemma	3	P														"Unless you have Anthropology and Leadership or 3 Diplomacy or 2 Intelligence or four personnel who each have Strength>6, all your personnel are stopped and this dilemma returns to its owner's dilemma pile."
+Pursuit Just Behind	P	p048	N	Dilemma	4	P														"Randomly select a personnel to be killed. If you still have nine personnel remaining, randomly select a second personnel to be killed. If you still have ten personnel remaining, randomly select a third personnel to be killed."
+Quantum Filament	P	p049	N	Dilemma	3	S							"Damage - When your personnel aboard this ship are about to face a dilemma, randomly select one of them to be stopped."							"Unless you have 2 Astrometrics and 2 Navigation or 2 Engineer, Science, and Shields>8, this dilemma is placed on your ship."
+Recurring Injury	P	p050	N	Dilemma	3	D														"Unless you have a personnel who has 2 Biology or a personnel who has 2 Medical, your opponent chooses an Biology or Medical personnel to be stopped. If your opponent cannot, all your personnel are stopped and this dilemma returns to its owner's dilemma pile."
+Rogue Borg Ambush	P	p051	N	Dilemma	3	P														"Unless you have Intelligence and Cunning>35 or a Hand Weapon and Strength>35, randomly select a personnel to be killed, then all your other personnel are stopped."
+Stellar Core Fragment	P	p052	N	Dilemma	3	D														"Unless you have a personnel who has 2 Physics or a personnel who has 2 Science, your opponent chooses an Physics or Science personnel to be stopped. If your opponent cannot, all your personnel are stopped and this dilemma returns to its owner's dilemma pile."
+Systems Diagnostic	P	p053	N	Dilemma	2	S														"Choose a personnel who has Engineer or Programming to be stopped. If you cannot, all your personnel are stopped and this dilemma returns to its owner's dilemma pile."
+Telepathic Deception	P	p054	N	Dilemma	4	D														"Unless you have Biology, Exobiology, and Security or Telepathy and Cunning>28, all your personnel are stopped and this dilemma returns to its owner's dilemma pile."
+Temptation	P	p055	N	Dilemma	3	D														Randomly select three personnel. Each of those personnel that does not have Honor or Treachery is stopped.
+Timescape	P	p056	N	Dilemma	0	D														"Place this dilemma on this location. You cannot begin an objective attempt at this location. At the end of this turn, this dilemma returns to its owner's dilemma pile."
+Triage	P	p057	N	Dilemma	1	P														"Choose a personnel who has Biology or Medical to be stopped. If you cannot, randomly select a personnel to be killed."
+Vastly Outnumbered	P	p058	N	Dilemma	3	S														"If you have Strength>55, lose 5 points. Also, unless you have Anthropology and 2 Honor or two Hand Weapons or Integrity>28, all your personnel are stopped and this dilemma returns to its owner's dilemma pile."
+Wavefront	P	p059	N	Dilemma	2	S														"Unless you have a personnel who has 2 Astrometrics or a personnel who has 2 Navigation, your opponent chooses an Astrometrics or Navigation personnel to be stopped. If your opponent cannot, all your personnel are stopped and this dilemma returns to its owner's dilemma pile."
+Bat'leth	P	p060	N	Equipment	0															
+Emergency Transport Unit	P	p061	N	Equipment	2															
+Engineering Kit	P	p062	N	Equipment	1															
+Engineering PADD	P	p063	N	Equipment	1															
+Hypospray	P	p064	N	Equipment	2															
+Klingon Disruptor Pistol	P	p065	N	Equipment	1															
+Medical Kit	P	p066	N	Equipment	1															
+Romulan Disruptor Pistol	P	p067	N	Equipment	1															
+Science PADD	P	p068	N	Equipment	1															
+Starfleet Type-2 Phaser	P	p069	N	Equipment	1															
+Tricorder	P	p070	N	Equipment	1															
+A Chance for Glory	P	p071	N	Event	3								Assault. Maneuver.							"Plays in your core. Order - Destroy this event to begin combat or an engagement involving your [Klg] personnel. If you win, score 10 points."
+Aggressive Solutions	P	p072	N	Event	3								"Replicate - Spend two counters. (You may spend two additional counters when you play this event. If you do, put this event in your hand instead of destroying it.)"							"To play this event, you must command three [Ent] personnel. Each player places the top card of his or her dilemma pile beneath an opponent's current objective.Destroy this event."
+Back-Flush Bussard Collectors	P	p073	N	Event	0															"To play this event, you must command a [Fed] Engineer personnel. Discard a card from hand to draw two cards. Destroy this event."
+BaH!	P	p074	N	Event	2								Maneuver.							"Plays in your core. Order - Destroy this event to begin an engagement involving your [klg] ship. That ship is Weapons +1. If you win, score 10 points."
+Brutal Struggle	P	p075	N	Event	2								Assault.							"Plays in your core. Order - Destroy this event to begin combat involving your Leadership personnel. If you win, randomly kill an opponent's personnel involved."
+Calling the Banners	P	p076	Y	Event	4															"Plays in your core. Your non-[Dur], [Klg] personnel with Treachery or integrity < 5 gain [Dur]. Any time you complete an objective with these personnel, score 5 points."
+Captain on the Bridge	P	p077	Y	Event	1															"Plays in your core. You may play a Commander that corresponds with your ship aboard that ship. When you do, he or she is cost -1."
+Captain's Log	P	p078	Y	Event	4															"Plays in your core. While facing a dilemma, you may exclude your corresponding Commander aboard his or her ship from random selections."
+Dark Pursuit	P	p079	Y	Event	4															"To play this event, you must command three [rom] personnel. Plays in your core. When the player on your right's personnel begin an objective attempt, you may draw one extra dilemma for each Pursuit card you command."
+Debate Over Dinner	P	p080		Event																
+Diplomatic Overture	P	p081		Event																
+Dissolving the Senate	P	p082		Event																
+Engage Cloak	P	p083		Event																
+Escape Pod	P	p084		Event																
+Experience Bij!	P	p085		Event																
+Ferocity	P	p086		Event																
+How Would You Like a Trip to Romulus?	P	p087		Event																
+Inspiring Leader	P	p088		Event																
+Let Honor Guide You	P	p089		Event																
+Make It So	P	p090		Event																
+Nelvana Trap	P	p091		Event																
+No Peace in Our Time	P	p092		Event																
+Nothing That Happens is Truly Random	P	p093		Event																
+Occular Implants	P	p094		Event																
+Order of the Bat'leth	P	p095		Event																
+Peacemaker or Predator?	P	p096		Event																
+Personal Forcefield	P	p097		Event																
+Point Blank Strike	P	p098		Event																
+Power Shift	P	p099		Event																
+Precise Attack	P	p100		Event																
+Prejudice and Politics	P	p101		Event																
+Relief Efforts	P	p102		Event																
+Reman Assault Team	P	p103		Event																
+Reman Subterfuge	P	p104		Event																
+Rescue Captives	P	p105		Event																
+Romulan Intelligence Network	P	p106		Event																
+Salvaging the Wreckage	P	p107		Event																
+Strike Force	P	p108		Event																
+Tactical Advantage	P	p109		Event																
+Tactical Planning	P	p110		Event																
+Tapestry	P	p111		Event																
+To Boldly Go	P	p112		Event																
+Unexpected Difficulties	P	p113		Event																
+Warrior's Birthright	P	p114		Event																
+Alternate Identity	P	p115		Interrupt																
+Amanda Rogers	P	p116		Interrupt																
+Calculated Concession	P	p117		Interrupt																
+Chance Observation	P	p118		Interrupt																
+Change of Heart	P	p119		Interrupt																
+Cloak and Dagger	P	p120		Interrupt																
+Condition Captive	P	p121		Interrupt																
+Empathic Touch	P	p122		Interrupt																
+Escape	P	p123		Interrupt																
+Evasive Maneuvers	P	p124		Interrupt																
+Full Throttle	P	p125		Interrupt																
+I Need A Little Counseling	P	p126		Interrupt																
+Kevin Uxbridge	P	p127		Interrupt																
+Mission Briefing	P	p128		Interrupt																
+Power to the Shields	P	p129		Interrupt																
+Preventative Ritual	P	p130		Interrupt																
+Protection of the Tal Shiar	P	p131		Interrupt																
+Pursuit Course	P	p132		Interrupt																
+Relentless	P	p133		Interrupt																
+Render Assistance	P	p134		Interrupt																
+Secret Conspiracy	P	p135		Interrupt																
+Sensor Sweep	P	p136		Interrupt																
+Shady Resources	P	p137		Interrupt																
+The Promise	P	p138		Interrupt																
+Torture	P	p139		Interrupt																
+Twist of Fate	P	p140		Interrupt																
+Alpha Omicron	P	p141		Location																
+Deneb IV	P	p142		Location																
+Devolin System	P	p143		Location																
+Devron System	P	p144		Location																
+Dorvan V	P	p145		Location																
+Earth	P	p146		Location																
+Gamma Arigulon II	P	p147		Location																
+Khitomer	P	p148		Location																
+Malcor III	P	p149		Location																
+Mintaka III	P	p150		Location																
+Nahmi IV	P	p151		Location																
+Nebula	P	p152		Location																
+Paulson Nebula	P	p153		Location																
+Qo'Nos	P	p154		Location																
+Romulus	P	p155		Location																
+Sector 2520	P	p156		Location																
+Sector 97	P	p157		Location																
+Space	P	p158		Location																
+Veridian III	P	p159		Location																
+Vilmor II	P	p160		Location																
+Vulcan	P	p161		Location																
+Acquire Illicit Explosives	P	p162		Objective																
+Advanced Battle Simulation	P	p163		Objective																
+Advanced Combat Training	P	p164		Objective																
+Agricultural Assessment	P	p165		Objective																
+Aid Clone Colony	P	p166		Objective																
+Amnesty Talks	P	p167		Objective																
+Avert Danger	P	p168		Objective																
+Avert Solar Implosion	P	p169		Objective																
+Brute Force	P	p170		Objective																
+Cargo Haul	P	p171		Objective																
+Cargo Rendezvous	P	p172		Objective																
+Collapse Anti-Time Anomaly	P	p173		Objective																
+Collect Sample	P	p174		Objective																
+Commandeer Prototype	P	p175		Objective																
+Deliver Ancient Artifact	P	p176		Objective																
+Deliver Prisoners	P	p177		Objective																
+Deliver Supplies	P	p178		Objective																
+Eliminate Harvesters	P	p179		Objective																
+Enforce Quarantine	P	p180		Objective																
+Evacuate Colony	P	p181		Objective																
+Evade Borg Vessel	P	p182		Objective																
+Excavation	P	p183		Objective																
+Explore Black Cluster	P	p184		Objective																
+Find Lifeless World	P	p185		Objective																
+Fissure Research	P	p186		Objective																
+Geological Survey	P	p187		Objective																
+Hunt for DNA Program	P	p188		Objective																
+Investigate Alien Probe	P	p189		Objective																
+Investigate Destruction	P	p190		Objective																
+Investigate Theft	P	p191		Objective																
+Make First Contact	P	p192		Objective																
+Medical Relief	P	p193		Objective																
+Military Exercises	P	p194		Objective																
+Mining Survey	P	p195		Objective																
+Obtain Vaccine	P	p196		Objective																
+Patrol Neutral Zone	P	p197		Objective																
+Plot Invasion	P	p198		Objective																
+Plunder Ruins	P	p199		Objective																
+Political Intrigue	P	p200		Objective																
+Rescue Prisoners	P	p201		Objective																
+Runabout Search	P	p202		Objective																
+Salvage Borg Ship	P	p203		Objective																
+Search for Starship	P	p204		Objective																
+Search for Survivors	P	p205		Objective																
+Security Briefing	P	p206		Objective																
+Sensitive Search	P	p207		Objective																
+Solve Dispute	P	p208		Objective																
+Study Cometary Cloud	P	p209		Objective																
+Survey Star System	P	p210		Objective																
+Treat Plague Ship	P	p211		Objective																
+Alynna Nechayev	P	p212		Personnel	3				Alpha	Federation	[CMD] [E]		Admiral.		Human		6	6	5	
+Alyssa Ogawa	P	p213		Personnel	2				Alpha	Federation	[STF] [ENT]				Human		6	5	4	
+Andrea Brand	P	p214		Personnel					Alpha	Federation										
+Barron	P	p215		Personnel					Alpha	Federation										
+Beverly Crusher	P	p216		Personnel					Alpha	Federation										
+Branson	P	p217		Personnel					Alpha	Federation										
+Curtis	P	p218		Personnel					Alpha	Federation										
+Daniel Kwan	P	p219		Personnel					Alpha	Federation										
+Daniels	P	p220		Personnel					Alpha	Federation										
+Data	P	p221		Personnel					Alpha	Federation										
+Davies	P	p222		Personnel					Alpha	Federation										
+Deanna Troi	P	p223		Personnel					Alpha	Federation										
+Dr. Royse	P	p224		Personnel					Alpha	Federation										
+Elizabeth Shelby	P	p225		Personnel					Alpha	Federation										
+E.M.H. Program	P	p226		Personnel					Alpha	Federation										
+Geordi La Forge	P	p227		Personnel					Alpha	Federation										
+Guinan	P	p228		Personnel					Alpha	Federation										
+Hawk	P	p229		Personnel					Alpha	Federation										
+Inge Eiger	P	p230		Personnel					Alpha	Federation										
+Jean-Luc Picard	P	p231		Personnel					Alpha	Federation										
+Jenna D'Sora	P	p232		Personnel					Alpha	Federation										
+Joseph Travis	P	p233		Personnel					Alpha	Federation										
+Kalandra	P	p234		Personnel					Alpha	Federation										
+Kathryn Janeway	P	p235		Personnel					Alpha	Federation										
+Kell Perim	P	p236		Personnel					Alpha	Federation										
+Kelly	P	p237		Personnel					Alpha	Federation										
+Leah Brahms	P	p238		Personnel					Alpha	Federation										
+Lian T'su	P	p239		Personnel					Alpha	Federation										
+Lightner	P	p240		Personnel					Alpha	Federation										
+Lisa Azar	P	p241		Personnel					Alpha	Federation										
+Martinez	P	p242		Personnel					Alpha	Federation										
+Matthew Dougherty	P	p243		Personnel					Alpha	Federation										
+Morgan Bateson	P	p244		Personnel					Alpha	Federation										
+Nella Daren	P	p245		Personnel					Alpha	Federation										
+Norah Satie	P	p246		Personnel					Alpha	Federation										
+Obarakeh	P	p247		Personnel					Alpha	Federation										
+Paul Porter	P	p248		Personnel					Alpha	Federation										
+Reginald Barclay	P	p249		Personnel					Alpha	Federation										
+Richard Wilkins	P	p250		Personnel					Alpha	Federation										
+Robert DeSoto	P	p251		Personnel					Alpha	Federation										
+Robin Lefler	P	p252		Personnel					Alpha	Federation										
+Seth Mendoza	P	p253		Personnel					Alpha	Federation										
+Silvestri	P	p254		Personnel					Alpha	Federation										
+Spock	P	p255		Personnel					Alpha	Federation										
+William T. Riker	P	p256		Personnel					Alpha	Federation										
+Worf	P	p257		Personnel					Alpha	Federation										
+B'amara	P	p258		Personnel					Alpha	Klingon										
+B'Etor	P	p259		Personnel					Alpha	Klingon										
+Bo'rak	P	p260		Personnel					Alpha	Klingon										
+Bregath	P	p261		Personnel					Alpha	Klingon										
+Divok	P	p262		Personnel					Alpha	Klingon										
+Dokar	P	p263		Personnel					Alpha	Klingon										
+Drex	P	p264		Personnel					Alpha	Klingon										
+Duras	P	p265		Personnel					Alpha	Klingon										
+Filuz	P	p266		Personnel					Alpha	Klingon										
+Gowron	P	p267		Personnel					Alpha	Klingon										
+J'Dan	P	p268		Personnel					Alpha	Klingon										
+Kahless	P	p269		Personnel					Alpha	Klingon										
+Kahlest	P	p270		Personnel					Alpha	Klingon										
+Kahmis	P	p271		Personnel					Alpha	Klingon										
+Kang	P	p272		Personnel					Alpha	Klingon										
+Kavok	P	p273		Personnel					Alpha	Klingon										
+K'Ehleyr	P	p274		Personnel					Alpha	Klingon										
+Khar	P	p275		Personnel					Alpha	Klingon										
+Kitrik	P	p276		Personnel					Alpha	Klingon										
+K'nera	P	p277		Personnel					Alpha	Klingon										
+Koloth	P	p278		Personnel					Alpha	Klingon										
+Konmel	P	p279		Personnel					Alpha	Klingon										
+Kor	P	p280		Personnel					Alpha	Klingon										
+Koral	P	p281		Personnel					Alpha	Klingon										
+Koroth	P	p282		Personnel					Alpha	Klingon										
+Korris	P	p283		Personnel					Alpha	Klingon										
+Kroval	P	p284		Personnel					Alpha	Klingon										
+K'Tal	P	p285		Personnel					Alpha	Klingon										
+Kurak	P	p286		Personnel					Alpha	Klingon										
+Kurn	P	p287		Personnel					Alpha	Klingon										
+Larg	P	p288		Personnel					Alpha	Klingon										
+Losta	P	p289		Personnel					Alpha	Klingon										
+Lursa	P	p290		Personnel					Alpha	Klingon										
+Meraht	P	p291		Personnel					Alpha	Klingon										
+Morka	P	p292		Personnel					Alpha	Klingon										
+Nu'Daq	P	p293		Personnel					Alpha	Klingon										
+Toral	P	p294		Personnel					Alpha	Klingon										
+T'vis	P	p295		Personnel					Alpha	Klingon										
+Vorax	P	p296		Personnel					Alpha	Klingon										
+Worf	P	p297		Personnel					Alpha	Klingon										
+Acost Jared	P	p298		Personnel					Alpha	Non-Aligned										
+Altovar	P	p299		Personnel					Alpha	Non-Aligned										
+Berild	P	p300		Personnel					Alpha	Non-Aligned										
+Bhavani	P	p301		Personnel					Alpha	Non-Aligned										
+Brull	P	p302		Personnel					Alpha	Non-Aligned										
+Chorgan	P	p303		Personnel					Alpha	Non-Aligned										
+Dallan	P	p304		Personnel					Alpha	Non-Aligned										
+Dathon	P	p305		Personnel					Alpha	Non-Aligned										
+Durg	P	p306		Personnel					Alpha	Non-Aligned										
+Etana Jol	P	p307		Personnel					Alpha	Non-Aligned										
+Galnar	P	p308		Personnel					Alpha	Non-Aligned										
+Grenis	P	p309		Personnel					Alpha	Non-Aligned										
+Inad	P	p310		Personnel					Alpha	Non-Aligned										
+Jo'Bril	P	p311		Personnel					Alpha	Non-Aligned										
+Kamala	P	p312		Personnel					Alpha	Non-Aligned										
+Kolos	P	p313		Personnel					Alpha	Non-Aligned										
+Leyor	P	p314		Personnel					Alpha	Non-Aligned										
+Marouk	P	p315		Personnel					Alpha	Non-Aligned										
+Marshor	P	p316		Personnel					Alpha	Non-Aligned										
+Nel Apgar	P	p317		Personnel					Alpha	Non-Aligned										
+Pran Tainer	P	p318		Personnel					Alpha	Non-Aligned										
+Rabal	P	p319		Personnel					Alpha	Non-Aligned										
+Regana Tosh	P	p320		Personnel					Alpha	Non-Aligned										
+Retaya	P	p321		Personnel					Alpha	Non-Aligned										
+Roga Danar	P	p322		Personnel					Alpha	Non-Aligned										
+Serova	P	p323		Personnel					Alpha	Non-Aligned										
+Soto	P	p324		Personnel					Alpha	Non-Aligned										
+Sunad	P	p325		Personnel					Alpha	Non-Aligned										
+Temarek	P	p326		Personnel					Alpha	Non-Aligned										
+Togaran	P	p327		Personnel					Alpha	Non-Aligned										
+Vash	P	p328		Personnel					Alpha	Non-Aligned										
+Volnoth	P	p329		Personnel					Alpha	Non-Aligned										
+Alidar Jarok	P	p330		Personnel					Alpha	Romulan										
+Bochra	P	p331		Personnel					Alpha	Romulan										
+Chagrith	P	p332		Personnel					Alpha	Romulan										
+Donatra	P	p333		Personnel					Alpha	Romulan										
+D'Ral	P	p334		Personnel					Alpha	Romulan										
+D'Tan	P	p335		Personnel					Alpha	Romulan										
+Dralvak	P	p336		Personnel					Alpha	Romulan										
+Galathon	P	p337		Personnel					Alpha	Romulan										
+Hiren	P	p338		Personnel					Alpha	Romulan										
+Jorvas	P	p339		Personnel					Alpha	Romulan										
+L'Kor	P	p340		Personnel					Alpha	Romulan										
+Mareth	P	p341		Personnel					Alpha	Romulan										
+Mendak	P	p342		Personnel					Alpha	Romulan										
+Mirok	P	p343		Personnel					Alpha	Romulan										
+Mopak	P	p344		Personnel					Alpha	Romulan										
+Movar	P	p345		Personnel					Alpha	Romulan										
+Mullen	P	p346		Personnel					Alpha	Romulan										
+Neral	P	p347		Personnel					Alpha	Romulan										
+Nevala	P	p348		Personnel					Alpha	Romulan										
+Noram	P	p349		Personnel					Alpha	Romulan										
+N'Vek	P	p350		Personnel					Alpha	Romulan										
+Palteth	P	p351		Personnel					Alpha	Romulan										
+Pardek	P	p352		Personnel					Alpha	Romulan										
+Parem	P	p353		Personnel					Alpha	Romulan										
+Rasul	P	p354		Personnel					Alpha	Romulan										
+Relam	P	p355		Personnel					Alpha	Romulan										
+Sabrun	P	p356		Personnel					Alpha	Romulan										
+Sela	P	p357		Personnel					Alpha	Romulan										
+Shinzon	P	p358		Personnel					Alpha	Romulan										
+Sirol	P	p359		Personnel					Alpha	Romulan										
+Suran	P	p360		Personnel					Alpha	Romulan										
+Tal'Aura	P	p361		Personnel					Alpha	Romulan										
+Talvin	P	p362		Personnel					Alpha	Romulan										
+Taris	P	p363		Personnel					Alpha	Romulan										
+Taul	P	p364		Personnel					Alpha	Romulan										
+Tebok	P	p365		Personnel					Alpha	Romulan										
+The Viceroy	P	p366		Personnel					Alpha	Romulan										
+Thexor	P	p367		Personnel					Alpha	Romulan										
+Tomalak	P	p368		Personnel					Alpha	Romulan										
+Toraan	P	p369		Personnel					Alpha	Romulan										
+Toreth	P	p370		Personnel					Alpha	Romulan										
+U.S.S. Akira	P	p371		Ship					Alpha	Federation										
+U.S.S. Bozeman	P	p372		Ship					Alpha	Federation										
+U.S.S. Enterprise-E	P	p373		Ship					Alpha	Federation										
+U.S.S. Excelsior	P	p374		Ship					Alpha	Federation										
+U.S.S. Galaxy	P	p375		Ship					Alpha	Federation										
+U.S.S. Hood	P	p376		Ship					Alpha	Federation										
+U.S.S. Intrepid	P	p377		Ship					Alpha	Federation										
+U.S.S. Nebula	P	p378		Ship					Alpha	Federation										
+U.S.S. Sovereign	P	p379		Ship					Alpha	Federation										
+I.K.S. Bortas	P	p380		Ship					Alpha	Klingon										
+I.K.S. Cha'Joh	P	p381		Ship					Alpha	Klingon										
+I.K.S. Hegh'ta	P	p382		Ship					Alpha	Klingon										
+I.K.S. K't'inga	P	p383		Ship					Alpha	Klingon										
+I.K.S. K'Vort	P	p384		Ship					Alpha	Klingon										
+I.K.S. Lukara	P	p385		Ship					Alpha	Klingon										
+I.K.S. Maht-H'a	P	p386		Ship					Alpha	Klingon										
+I.K.S. Negh'Var	P	p387		Ship					Alpha	Klingon										
+I.K.S. Vorcha	P	p388		Ship					Alpha	Klingon										
+I.K.S. Vorn	P	p389		Ship					Alpha	Klingon										
+Flaxian Scout Vessel	P	p390		Ship					Alpha	Non-Aligned										
+Miradorn Raider	P	p391		Ship					Alpha	Non-Aligned										
+Tama	P	p392		Ship					Alpha	Non-Aligned										
+T'Lani Munitions Ship	P	p393		Ship					Alpha	Non-Aligned										
+D'deridex	P	p394		Ship					Alpha	Romulan										
+Deranas	P	p395		Ship					Alpha	Romulan										
+Goraxus	P	p396		Ship					Alpha	Romulan										
+Haakona	P	p397		Ship					Alpha	Romulan										
+Romulan Scout Vessel	P	p398		Ship					Alpha	Romulan										
+Soterus	P	p399		Ship					Alpha	Romulan										
+Terix	P	p400		Ship					Alpha	Romulan										
+Valdore	P	p401		Ship					Alpha	Romulan										
+Ablative Armor	P	p402		System																
+Bynars System Upgrade	P	p403		System																
+Enhanced Warp Core	P	p404		System																
+Holographic Comm System	P	p405		System																
+Interphasic Cloaking Device	P	p406		System																
+Manual Steering Column	P	p407		System																
+Metaphasic Shields	P	p408		System																
+Plasmadyne Relay	P	p409		System																
+Crimson Forcefield	P	p410		Tactic																
+Evasive Maneuvers	P	p411		Tactic																
+Full Phaser Spread	P	p412		Tactic																
+Isolytic Burst	P	p413		Tactic																
+Mask Warp Signature	P	p414		Tactic																
+Maximum Firepower	P	p415		Tactic																
+Phaser Array	P	p416		Tactic																
+Photon Torpedo	P	p417		Tactic																
+Plasma Torpedo	P	p418		Tactic																
+Pulse Disruptor	P	p419		Tactic																
+Quantum Torpedo	P	p420		Tactic																
+Riker Maneuver	P	p421		Tactic																
+Strafing Run	P	p422		Tactic																
+Target Engines	P	p423		Tactic																
+Target Shields	P	p424		Tactic																
+Target These Coordinates	P	p425		Tactic																
+Target Weapons	P	p426		Tactic																
