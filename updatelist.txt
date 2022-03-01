@@ -1,0 +1,10 @@
+stccgredux	03-01-22
+plugins/stccgredux/version.txt	https://NowhereGaming.github.io/stccgredux/version.txt	24506
+plugins/stccgredux/defaultchat.txt	https://NowhereGaming.github.io/stccgredux/defaultchat.txt	25474
+plugins/stccgredux/plugininfo.txt	hhttps://NowhereGaming.github.io/stccgredux/plugininfo.txt	751593
+plugins/stccgredux/changelog.txt	https://NowhereGaming.github.io/stccgredux/changelog.txt	2569
+plugins/stccgredux/sets/Redux.txt	https://NowhereGaming.github.io/stccgredux/Redux.txt	2489479
+plugins/stccgredux/sets/setimages/general/Spawned.jpg	https://NowhereGaming.github.io/stccgredux/General/spawned.jpg	417722
+plugins/stccgredux/sets/setimages/general/cardback.jpg	https://NowhereGaming.github.io/stccgredux/General/cardback.jpg	351129
+CardGeneralURLs:		
+https://NowhereGaming.github.io/stccgredux/General/

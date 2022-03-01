@@ -1,0 +1,6 @@
+<version>
+<lastupdateYYMMDD>220301</lastupdateYYMMDD>
+<versionurl>https://NowhereGaming.github.io/stccgredux/version.txt</versionurl>
+<updateurl>https://NowhereGaming.github.io/stccgredux/updatelist.txt</updateurl>
+<message>Initial Release</message>
+</version>
