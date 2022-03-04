@@ -1,0 +1,7 @@
+<uninstall>
+<dateYYMMDD>220304</dateYYMMDD>
+<removepath>sets/setimages/general/p271</removepath>
+<removepath>sets/setimages/general/p292</removepath>
+<removepath>sets/setimages/general/p275</removepath>
+<removepath>sets/setimages/general/p373</removepath>
+</uninstall>
