@@ -541,7 +541,7 @@ Corbomite Maneuver	AOY	aoy113		Tactic
 Frontal Assault	AOY	aoy114		Tactic																
 Phaser Banks	AOY	aoy115		Tactic																
 Primary Plasma Weapon	AOY	aoy116		Tactic																
-Christopher Pike	AOY	aoy117p		Personnel					Alpha	Federation										
-Spock	AOY	aoy118p		Personnel					Alpha	Federation										
-Una Chin-Riley	AOY	aoy119p		Personnel					Alpha	Federation										
-U.S.S. Enterprise	AOY	aoy120p		Ship					Alpha	Federation										
+Christopher Pike	AOY	aoy117		Personnel					Alpha	Federation										
+Spock	AOY	aoy118		Personnel					Alpha	Federation										
+Una Chin-Riley	AOY	aoy119		Personnel					Alpha	Federation										
+U.S.S. Enterprise	AOY	aoy120		Ship					Alpha	Federation										
