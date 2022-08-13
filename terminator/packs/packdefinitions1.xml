@@ -1,0 +1,116 @@
+<packdefinitions version="1.0">
+
+<pack>
+     <packtitle>Resistance Starter</packtitle>
+     <packimage>rstarter</packimage>
+     <packformat>normal</packformat>
+     <packkind>starter</packkind>
+     <packdoubles>yes</packdoubles>
+     <packcommoncrit><field>Set</field><eval>IS</eval><data>alpha</packcommoncrit>
+     <chance>
+          <kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>.357 Magnum</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Alleyway</data></crit></kind>
+          <kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Anticipation</data></crit></kind>
+          <kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Bullet-Proof Vest</data></crit></kind>
+          <kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Caught Off-Guard</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Cpl. Rensey</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Distractions</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Dumpster</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Exertion</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Field Dressing</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Garbage Man</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Glass Shards</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Heated Fighting</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Hollow-Point Rounds</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Human Intuition</data></crit></kind>
+          <kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Investigative Reporter</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Kitchen</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Main Street</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Manstopper Rounds</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Mistaken Identity</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Move It</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Pawn lII</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Pawn Shop</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Phone Book</data></crit></kind>
+          <kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Police Officer</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Police Station</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Remington 870</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Ruined Flesh</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Run!</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Sarah J. Connor [3-2-5]</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Sgt. Kyle Reese [3-3]</data></crit></kind>
+          <kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Shattered Hope</data></crit></kind>
+          <kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Stay Frosty</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Suburban House</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Suburban Street</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Target Acquired</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Targeting System Failure</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Tech Noir</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Tiki Motel</data></crit></kind>
+     </chance>
+</pack>
+
+<pack>
+     <packtitle>SkyNet Starter</packtitle>
+     <packimage>sstarter</packimage>
+     <packformat>normal</packformat>
+     <packkind>starter</packkind>
+     <packdoubles>yes</packdoubles>
+     <packcommoncrit><field>Set</field><eval>IS</eval><data>alpha</packcommoncrit>
+     <chance>
+          <kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>.45 Long-Slide</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Alamo Sport Shop</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Anticipation</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Apartment Complex</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Battle Fatigue</data></crit></kind>
+          <kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Battlefield Repairs</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Better You Than Me</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>City Park</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Dark Alley</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Desperation</data></crit></kind>
+          <kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Discipline</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Hide</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Ineffective Weaponry</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Infiltrator</data></crit></kind>
+          <kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Inhuman Resilience</data></crit></kind>
+          <kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Investigative Reporter</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Isolated Side Street</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>LS-81 Laser Sight</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Main Street</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Matt McCallister</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Misfire</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Mistaken Identity</data></crit></kind>
+          <kind><qty>2</qty><crit><field>Name</field><eval>IS</eval><data>Nightmares</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Out Dancing</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Phone Book</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Police Station</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Reconstructive Nanites</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Sarah J. Connor [3-2-5]</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Sewer</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Skills Upgrade: Marksman</data></crit></kind>
+          <kind><qty>3</qty><crit><field>Name</field><eval>IS</eval><data>Street Punk</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Suburban Street</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Sunglasses</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Switchblade</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Target Acquired</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Tech Noir</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Twist of Fate</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Up Close and Personal</data></crit></kind>
+          <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Your Clothes...</data></crit></kind>
+     </chance>
+</pack>
+
+<pack>
+     <packtitle>Terminator Booster Pack</packtitle>
+     <packimage>tbooster</packimage>
+     <packformat>normal</packformat>
+     <packkind>booster</packkind>
+     <packcommoncrit><field>Set</field><eval>IS</eval><data>T</data></packcommoncrit>
+     <chance>
+          <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+          <kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+          <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+     </chance>
+</pack>
+
+</packdefinitions>
