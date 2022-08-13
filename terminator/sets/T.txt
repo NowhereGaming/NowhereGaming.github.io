@@ -1,0 +1,349 @@
+Name	Set	ImageFile	Type	Rarity	Speed	Power	Imp/Inf	Cost/Val
+.357 Magnum	T	T001	Item	S				
+.44 AutoMag	T	T002	Item	C				
+.45 Long-Slide	T	T003	Item	S				
+.50 cal Barretta M-82A1	T	T004	Item	R				
+.50 Desert Eagle	T	T005	Item	R				
+12-Gauge Auto-Loader	T	T006	Item	C				
+20-Watt Phased Plasma Rifle	T	T007	Item - SkyNet	U				2
+400 Rounds and Counting	T	T008	Event	C				
+40-Watt Phased Plasma Rifle	T	T009	Item - SkyNet	R				5
+A Learning Computer	T	T010	Event	R				2
+A New Beginning	T	T011	Event	R				
+Adaptive Programming	T	T012	Event	U				
+Advanced Construction Drone	T	T013	Character - Main: SkyNet	U	2	4		4
+Advanced Scouting	T	T014	Event	U				
+Advanced Stealth Infiltrator	T	T015	Character - Main: SkyNet	R	3	5	5	13
+Aerial Recon Unit	T	T016	Character - Main: SkyNet	R	4	6		12
+Alamo Sport Shop	T	T017	Location: Exterior	S				
+Alleyway	T	T018	Location: Exterior	S				
+Ambidextrous	T	T019	Event	U				
+Ammo Cache	T	T020	Event	C				
+Anticipation	T	T021	Event	C				
+Apartment Complex	T	T022	Location: Exterior	S				
+AR-18 Assault Rifle	T	T023	Item	R				
+Arm-Mounted Gatling Gun	T	T024	Item - SkyNet	R				5
+Armor-Piercing Rounds	T	T025	Item	U				
+Augmented Musculature	T	T026	Item - SkyNet	R				4
+Automated Armory	T	T027	Location: Exterior	U				
+Automated Assembly Line	T	T028	Location: Interior	U				
+Barred Door	T	T029	Event	C				
+Barren Wasteland	T	T030	Location: Exterior	C				
+Bartender	T	T031	Character - Supporting	C	2	2	1	
+Battle Fatigue	T	T032	Event	C				
+Battlefield Repairs	T	T033	Event	C				
+Battlefield Shadows	T	T034	Event	U				
+Better You Than Me	T	T035	Event	C				
+Big Jeff's Family Restaurant	T	T036	Location: Exterior	U				
+Blending In	T	T037	Event	U				1
+Blood Splatter	T	T038	Event	C				
+Blown Power Grid	T	T039	Event	U				
+Bonefields	T	T040	Location: Exterior	R				
+Braced For Impact	T	T041	Event	R				
+Bullet-Proof Vest	T	T042	Item	S				
+Casting	T	T043	Event	R				2
+Caught Off-Guard	T	T044	Event	S				
+Chain Link Fence	T	T045	Event	C				
+City Park	T	T046	Location: Exterior	S				
+City Ruins	T	T047	Location: Exterior	U				
+City Street	T	T048	Location: Exterior	C				
+Clean Room	T	T049	Location: Interior	R				
+Collapsed Ceiling	T	T050	Event	R				
+Combat Roll	T	T051	Event	U				
+Composite Body Armor	T	T052	Item	R				
+Compromised Stronghold	T	T053	Mission	U				
+Concealed Weapon	T	T054	Event	U				1
+Concentration	T	T055	Event	C				2
+Conquer	T	T056	Event	U				
+Construction Drone	T	T057	Character - Main: SkyNet	C	1	2		2
+Construction Site	T	T058	Location: Exterior	R				
+Coordinated Fire	T	T059	Event	C				
+Counterintelligence	T	T060	Mission	R				
+Cover charge	T	T061	Event	C				
+Cpl. Charlotte Ferro 	T	T062	Character - Main: Resistance	R	2	4		
+Cpl. Greene	T	T063	Character - Main: Resistance	U	3	3		
+Cpl. LeBreton	T	T064	Character - Main: Resistance	R	2	4		
+Cpl. Marcus	T	T065	Character - Main: Resistance	U	2	4		
+Cpl. Pierce	T	T066	Character - Main: Resistance	U	3	4		
+Cpl. Rensey	T	T067	Character - Main: Resistance	S	2	4		
+Critical Systems Failure	T	T068	Event	U				
+Crowd Cover	T	T069	Event	C				
+Dark Alley	T	T070	Location: Exterior	S				
+Data Stream	T	T071	Event	U				
+Daybreak	T	T072	Condition	C				
+Deadly Force	T	T073	Event	C				
+Defective Ammunition	T	T074	Event	C				
+Deny Fate	T	T075	Event	U				
+Dermal Ablative Armor	T	T076	Event	R				
+Desperation	T	T077	Event	C				
+Destiny's Child	T	T078	Mission	C				
+Det. Lt. Ed Traxler	T	T079	Character - Supporting	R	2	3	0	
+Det. Sgt. Hal Vukovich	T	T080	Character - Supporting	R	2	3	0	
+Detachable Surveillance Module	T	T081	Item - SkyNet	C				
+Detailed Analysis	T	T082	Event	U				
+Discipline	T	T083	Event	S				
+Disrupt Command & Control	T	T084	Mission	U				
+Distractions	T	T085	Event	C				
+Divine Intervention	T	T086	Event	R				
+Dr. Peter Silberman	T	T087	Character - Supporting	R	2	2	1	
+Drone Reconditioning Facility	T	T088	Location: Exterior	U				
+Dumpster	T	T089	Location: Exterior	S				
+Echelon Formation	T	T090	Event	R				
+Electromagnetic Rounds	T	T091	Item	U				
+Entropy	T	T092	Event	U				
+Escape Plans	T	T093	Event	R				
+Esprit de Corps	T	T094	Condition	R				
+Evasive Maneuvers	T	T095	Event	R				
+Excessive Force	T	T096	Event	U				1
+Exertion	T	T097	Event	C				
+Extended Magazine	T	T098	Event	C				
+Extended Range	T	T099	Event	C				
+Extreme Prejudice	T	T100	Event	R				*
+Extreme Sanction	T	T101	Condition	R				
+False Sense of Security	T	T102	Event	U				2
+Fearless	T	T103	Event	C				1
+Field Dressing	T	T104	Event	C				
+Field Repairs	T	T105	Event	C				3
+Firebase -Delta-	T	T106	Location: Exterior	U				
+First Aid Kit	T	T107	Item	C				
+Flashlight	T	T108	Item	C				
+Flight Control Facility	T	T109	Location: Exterior	R				
+For a Price	T	T110	Event	R				1
+Forward Offensive	T	T111	Mission	R				
+Garbage Man	T	T112	Character - Supporting	C	2	2	1	
+Genocide	T	T113	Mission	U				
+Ginger Ventura	T	T114	Character - Supporting	R	3	2	1	
+Glancing Blow	T	T115	Event	C				
+Glass Shards	T	T116	Event	C				
+Glitch in the System	T	T117	Event	C				1
+Gramps	T	T118	Character - Supporting	R	2	2	1	
+Gruesome Transport	T	T119	Condition	U				
+GSgt. Valdez	T	T120	Character - Main: Resistance	C	3	3		
+Guard Dogs	T	T121	Character - Supporting	U	2	3	0	
+Heated Fighting	T	T122	Event	C				
+Heavy Combat Chassis Unit	T	T123	Character - Main: SkyNet	U	4	9		13
+Heroic Sacrifice	T	T124	Event	C				
+Hesitation	T	T125	Event	U				2
+Hidden Weapon Stash	T	T126	Event	C				
+Hide	T	T127	Event	C				
+Hint of Things to Come	T	T128	Event	R				1
+Hollow-Point Rounds	T	T129	Item	C				
+Holographic Array	T	T130	Item - SkyNet	R				
+Human Error	T	T131	Event	R				
+Human Intuition	T	T132	Event	C				
+Hypersonic Emitter	T	T133	Item - SkyNet	C				2
+Inconsequential	T	T134	Event	C				
+Industrial Sabotage	T	T135	Event	U				
+Ineffective Weaponry	T	T136	Event	C				
+Infiltrator	T	T137	Character - Main: SkyNet	C	4	7	3	6
+Infiltrator Assembly Plant	T	T138	Location: Interior	R				
+Inhuman Resilience	T	T139	Event	C				
+Inspiration	T	T140	Event	R				
+Interrogation Room	T	T141	Location: Interior	R				
+Intuitive Reflexes	T	T142	Event	R				
+Investigative Reporter	T	T143	Character - Supporting	S	1	2	2	
+Iridium Power Cell	T	T144	Item - SkyNet	U				3
+Isolated Side Street	T	T145	Location: Exterior	S				
+Kevlar Body Armor	T	T146	Item	U				
+Kill Shot	T	T147	Event	U				1
+Kitchen	T	T148	Location: Interior	S				
+Knight IV	T	T149	Character - Main: Resistance	R	4	3		
+Laser Defense Grid	T	T150	Event	U				
+Late-Breaking Story	T	T151	Event	U				
+LCpl. Devin	T	T152	Character - Main: Resistance	U	3	3		
+Leading By Example	T	T153	Mission	C				
+Lethal Training	T	T154	Event	U				
+Light Assault Infiltrator	T	T155	Character - Main: SkyNet	C	4	6	3	9
+Limited Resources	T	T156	Event	R				
+Living Room	T	T157	Location: Interior	R				
+Locked Storeroom	T	T158	Location: Interior	R				
+LS-81 Laser Sight	T	T159	Item	S				
+Lt. Ryan	T	T160	Character - Main: Resistance	R	2	4		
+M-16A1 Standard Issue	T	T161	Item	U				
+M31A- Phosphorous Grenade	T	T162	Item	R				
+M41 - Range Finder Scope	T	T163	Item	R				
+M45 - Thermal Imaging Scope	T	T164	Item	U				
+M71 - Armored Tactical Helmet	T	T165	Item	R				
+Main Street	T	T166	Location: Exterior	S				
+Maj. Gen. Justin Perry	T	T167	Character - Main: Resistance	R	2	4		
+Maj. Villalobos	T	T168	Character - Main: Resistance	R	3	4		
+Makeshift Barricade	T	T169	Event	C				
+Manhole	T	T170	Event	U				
+Manstopper Rounds	T	T171	Item	C				
+Matt McCallister	T	T172	Character - Supporting	S	2	4	1	
+Maximum Production	T	T173	Mission	R				
+MD301 Bio-Spray	T	T174	Item	R				
+MD304 Burn Kit	T	T175	Item	U				
+Medium Assault Infiltrator	T	T176	Character - Main: SkyNet	R	4	8	4	12
+Misfire	T	T177	Event	C				
+Mission Debriefing	T	T178	Event	R				
+Mistaken Identity	T	T179	Event	C				
+Mobile Assault Unit	T	T180	Character - Main: SkyNet	U	4	8		14
+Move It	T	T181	Event	C				
+Multiple Target Acquisition	T	T182	Event	C				
+Munitions Hold	T	T183	Item - SkyNet	C				2
+Murphy's Law	T	T184	Event	U				
+Nightfall	T	T185	Condition	C				
+Nightmares	T	T186	Event	C				
+Oath of Allegiance: 132nd Eagle Watch	T	T187	Event	R				
+Oath of Allegiance: Black Shield Unit	T	T188	Event	U				
+Oath of Allegiance: Covert Ops	T	T189	Event	U				
+Oath of Allegiance: Delta Company	T	T190	Event	U				
+Obliteration	T	T191	Event	R				
+Observatory	T	T192	Location: Exterior	C				
+Obstructions	T	T193	Event	C				
+Ocular Implant: Infrared Optics	T	T194	Item - SkyNet	C				3
+Ocular Implant: Retinal Laser	T	T195	Item - SkyNet	R				4
+Ocular Implant: Targeting Matrix	T	T196	Item - SkyNet	U				3
+On Your Feet, Soldier	T	T197	Event	U				2
+Orbital Control Center	T	T198	Location: Exterior	U				
+Orphan	T	T199	Character - Supporting	C	2	2	1	
+Out Dancing	T	T200	Event	C				
+Out of Stock	T	T201	Event	U				
+Outclassed	T	T202	Event	R				2
+Overproduction	T	T203	Event	R				
+Packrat	T	T204	Character - Supporting	U	3	2	0	
+Parking Lot	T	T205	Location: Exterior	C				
+Pawn lII	T	T206	Character - Main: Resistance	S	3	2		
+Pawn Shop	T	T207	Location: Exterior	S				
+Perfect Disguise	T	T208	Event	C				
+Perimeter Patrol Dogs	T	T209	Character - Supporting	C	3	3	0	
+Phased Plasma Charge	T	T210	Item	R				
+Phone Book	T	T211	Event	C				
+Pipe Bombs	T	T212	Item	C				
+Plasma Dampening Field	T	T213	Item - SkyNet	R				4
+Plasma Overload	T	T214	Event	U				
+Point Blank	T	T215	Event	C				
+Police Officer	T	T216	Character - Supporting	S	2	3	1	
+Police Station	T	T217	Location: Exterior	S				
+Power Spike	T	T218	Event	C				1
+Preach the Future	T	T219	Mission	C				
+Predicted Outcome	T	T220	Event	U				2
+Primal Fear	T	T221	Event	R				1
+Prime Directive	T	T222	Mission	C				
+Priorities Rescinded	T	T223	Event	U				
+Processor Bank	T	T224	Location: Interior	U				
+Protection	T	T225	Condition	U				
+Puppet Strings	T	T226	Event	C				
+Pvt. Baker	T	T227	Character - Main: Resistance	C	3	3		
+Pvt. Furious	T	T228	Character - Main: Resistance	U	3	4		
+Pvt. Garcia	T	T229	Character - Main: Resistance	C	2	4		
+Pvt. Garstin	T	T230	Character - Main: Resistance	C	2	4		
+Pvt. Gentii	T	T231	Character - Supporting	R	2	3	0	
+Pvt. Grey	T	T232	Character - Main: Resistance	U	3	3		
+Quick Deployment	T	T233	Event	C				
+Raging Inferno	T	T234	Event	R				
+Rational Explanation	T	T235	Event	C				
+Raze	T	T236	Event	C				
+Recon Infiltrator	T	T237	Character - Main: SkyNet	C	3	5	3	8
+Reconnaissance	T	T238	Mission	U				
+Reconstructive Nanites	T	T239	Item - SkyNet	C				2
+Recycling Operation	T	T240	Mission	R				
+Refractive Cloaking Armor	T	T241	Item	R				
+Reinforced Hardpoint	T	T242	Event	R				
+Reinforced Structure	T	T243	Event	U				
+Reinforcements	T	T244	Condition	R				
+Relentless	T	T245	Event	C				
+Reload	T	T246	Event	C				
+Remington 870	T	T247	Item	C				
+Remote Tactical Uplink	T	T248	Item	U				
+Rerouting Emergency Power	T	T249	Event	R				*
+Research & Development Facility	T	T250	Location: Exterior	U				
+Resistance Private	T	T251	Character - Main: Resistance	C	2	3		
+Retractable Claws	T	T252	Item - SkyNet	C				2
+Retroviral Engineering	T	T253	Location: Exterior	R				
+Rewriting History	T	T254	Event	C				
+Right Off The Assembly Line	T	T255	Event	U				
+Rook II	T	T256	Character - Main: Resistance	U	4	2		
+Rubber Skin	T	T257	Event	R				
+Rubble Hills	T	T258	Location: Exterior	C				
+Ruined Flesh	T	T259	Event	C				
+Ruined Street	T	T260	Location: Exterior	C				
+Run!	T	T261	Event	C				
+Running Battle	T	T262	Condition	U				
+S.W.A.T. Tactical Officer	T	T263	Character - Supporting	R	3	3	1	
+Safehouse	T	T264	Event	R				
+Salvage Operation	T	T265	Mission	R				
+Sarah J. Connor [3-2-2]	T	T266	Character - Supporting	R	3	2	2	
+Sarah J. Connor [3-2-5]	T	T267	Character - Supporting	S	3	2	5	
+Sarah Louise Connor, Mother of Two	T	T268	Character - Supporting	R	2	2	0	
+Sarge	T	T269	Character - Supporting	R	3	3	0	
+Savagery	T	T270	Event	C				
+Scatter	T	T271	Event	C				1
+Schematic Download	T	T272	Event	U				
+Scouting Mission	T	T273	Event	C				1
+Search Pattern	T	T274	Event	U				
+Sentinel	T	T275	Event	R				
+Servo-Admin Drone	T	T276	Character - Main: SkyNet	R	2	4		1
+Sewage Tunnel Entrance	T	T277	Location: Exterior	C				
+Sewer	T	T278	Location: Interior	S				
+Sgt. Hannum	T	T279	Character - Main: Resistance	R	2	4		
+Sgt. Kyle Reese [3-3]	T	T280	Character - Main: Resistance	S	3	3		
+Sgt. Kyle Reese [3-4]	T	T281	Character - Main: Resistance	R	3	4		
+Sgt. Maj. Jensen	T	T282	Character - Main: Resistance	U	3	3		
+Shattered Hope	T	T283	Event	C				1
+Shifting Sands	T	T284	Event	U				
+Sixth Sense	T	T285	Event	U				
+Skills Upgrade: Basic Training	T	T286	Item - SkyNet	U				3
+Skills Upgrade: Marksman	T	T287	Item - SkyNet	C				2
+Skills Upgrade: Medical Training	T	T288	Item - SkyNet	C				2
+Skills Upgrade: Tactical Database	T	T289	Item - SkyNet	R				4
+Skills Upgrade: Veteran	T	T290	Item - SkyNet	U				2
+Slagged Gear	T	T291	Event	U				
+Spread the Word	T	T292	Mission	U				
+Staff Lunchroom	T	T293	Location: Interior	C				
+Staggered Formation	T	T294	Event	U				
+Stay Frosty	T	T295	Event	C				
+Steel Mill	T	T296	Location: Exterior	U				
+Storage Cell	T	T297	Event	U				
+Storm the Wires	T	T298	Mission	C				
+Street Punk	T	T299	Character - Supporting	S	2	3	1	
+Stronghold Mechanic	T	T300	Character - Supporting	U	2	2	1	
+Subdermal Armor: Level 1	T	T301	Item - SkyNet	U				2
+Suburban House	T	T302	Location: Exterior	S				
+Suburban Street	T	T303	Location: Exterior	S				
+Successful Infiltration	T	T304	Mission	C				
+Suicidal Tendencies	T	T305	Event	R				
+Sunglasses	T	T306	Item	C				
+Surplus Depot	T	T307	Location: Exterior	R				
+Switchblade	T	T308	Item	C				
+Tactical Analysis	T	T309	Mission	R				
+Tactical Command Unit	T	T310	Character - Main: SkyNet	R	4	9		14
+Tactical Error	T	T311	Event	U				
+Tactical Formation	T	T312	Event	U				
+Tactical Infiltrator	T	T313	Character - Main: SkyNet	U	4	7	3	10
+Target Acquired	T	T314	Event	C				
+Targeting System Failure	T	T315	Event	C				
+Tech Noir	T	T316	Location: Exterior	S				
+Technical Malfunction	T	T317	Event	R				*
+The Pass	T	T318	Location: Exterior	R				
+There's a Storm Coming...	T	T319	Event	R				
+Tiki Motel	T	T320	Location: Exterior	S				
+Time Displacement Laboratory	T	T321	Location: Exterior	U				
+Time Lab Discovered!	T	T322	Mission	U				
+Toxin Coated Spikes	T	T323	Item - SkyNet	U				3
+Trash Warrens	T	T324	Location: Exterior	U				
+Trench Warfare	T	T325	Mission	C				
+Trenchcoat	T	T326	Item	U				
+Twist of Fate	T	T327	Event	C				
+Underground Archives	T	T328	Location: Interior	R				
+Unit Construction Zone	T	T329	Location: Exterior	R				
+Unit Deployment	T	T330	Event	C				
+Unpredictability	T	T331	Event	U				1
+Up Close and Personal	T	T332	Event	C				
+Urban Ground Assault Unit	T	T333	Character - Main: SkyNet	R	2	9		15
+Urgency	T	T334	Condition	U				
+UZI 9mm	T	T335	Item	R				
+Vantage Point	T	T336	Location: Exterior	R				
+Vicious Attack	T	T337	Event	C				
+Victory Through Attrition	T	T338	Mission	R				
+Viral Contamination	T	T339	Event	R				
+Walking in Shadows	T	T340	Event	U				
+Wanted	T	T341	Event	R				
+Well Rested	T	T342	Event	U				
+WetWare Processing Facility	T	T343	Location: Exterior	U				
+What Will It Be?	T	T344	Event	C				
+What's the Date?	T	T345	Event	U				
+When Animals Attack	T	T346	Event	R				
+When In Doubt	T	T347	Event	C				
+Your Clothes...	T	T348	Event	C				
