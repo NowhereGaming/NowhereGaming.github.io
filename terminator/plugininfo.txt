@@ -83,7 +83,7 @@
 	<label>Discard from Deck</label>
 	<kind>TRANSFERCARD</kind>
 	<sourceowner>performer</sourceowner>
-	<sourcegamezone>Deck</sourcegamezone>
+	<sourcegamezone>Draw Deck</sourcegamezone>
 	<sourceposition>top</sourceposition>
 	<destinationowner>performer</destinationowner>
 	<destinationgamezone>Discard</destinationgamezone>
