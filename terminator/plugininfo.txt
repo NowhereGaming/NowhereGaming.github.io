@@ -1,0 +1,171 @@
+<plugin>
+<playerstat>
+	<label>Importance Points</label>
+	<initialvalue>0</initialvalue>
+</playerstat>
+<playerstat>
+	<label>Mission Points</label>
+	<initialvalue>0</initialvalue>
+</playerstat>
+<playerstat>
+	<label>Combat Counters</label>
+	<initialvalue>7</initialvalue>
+</playerstat>
+
+<deckzone>
+     <label>Draw Deck</label>
+     <gamezonetoloadto>Deck</gamezonetoloadto>
+     <shuffle>yes</shuffle>
+</deckzone>
+<deckzone>
+     <label>Locations</label>
+     <gamezonetoloadto>Locations</gamezonetoloadto>
+     <shuffle>no</shuffle>
+</deckzone>
+
+<gamezone>
+     <label>Hand</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+<gamezone>
+     <label>Draw Deck</label>
+     <visibletoowner>no</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+<gamezone>
+     <label>Discard</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>yes</visibletoothers>
+</gamezone>
+<gamezone>
+     <label>Removed</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>yes</visibletoothers>
+</gamezone>
+<gamezone>
+     <label>Locations</label>
+     <visibletoowner>no</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+<gamezone>
+     <label>Objectives</label>
+     <visibletoowner>no</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+
+<phase>
+	<label>Ready</label>
+</phase>
+<phase>
+	<label>Staging</label>
+</phase>
+<phase>
+	<label>Discard/Draw</label>
+</phase>
+<phase>
+	<label>Combat</label>
+</phase>
+<phase>
+	<label>Search</label>
+</phase>
+<generalfunction>
+	<label>Draw</label>
+	<kind>DRAWCARD</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Discard from Deck</label>
+	<kind>TRANSFERCARD</kind>
+	<sourceowner>performer</sourceowner>
+	<sourcegamezone>Deck</sourcegamezone>
+	<sourceposition>top</sourceposition>
+	<destinationowner>performer</destinationowner>
+	<destinationgamezone>Discard</destinationgamezone>
+	<destinationposition>top</destinationposition>	
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Draw Location</label>
+	<kind>TRANSFERCARD</kind>
+	<sourceowner>performer</sourceowner>
+	<sourcegamezone>Locations</sourcegamezone>
+	<sourceposition>top</sourceposition>
+	<destinationowner>performer</destinationowner>
+	<destinationgamezone>Hand</destinationgamezone>
+	<destinationposition>top</destinationposition>	
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Next Turn</label>
+	<kind>NEXTTURN</kind>
+	<includeasbutton>no</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Previous Turn</label>
+	<kind>PREVIOUSTURN</kind>
+	<includeasbutton>no</includeasbutton>
+</generalfunction>
+<cardfunction>
+	<label>Flip</label>
+	<kind>TURNOVER</kind>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+<cardfunction>
+	<label>Tap</label>
+	<kind>MAKERIGHT90DEGREES</kind>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+<cardfunction>
+	<label>Untap</label>
+	<kind>MAKERIGHT0DEGREES</kind>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+<cardfunction>
+	<label>Damage +1</label>
+	<kind>ADDCOUNTER</kind>
+	<color>yellow</color>
+	<PositionX>.5</PositionX>
+	<PositionY>.04</PositionY>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+<cardfunction>
+	<label>Damage -1</label>
+	<kind>REMOVECOUNTER</kind>
+	<color>yellow</color>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+<cardfunction>
+	<label>Edit Note</label>
+	<kind>EDITNOTE</kind>
+	<PositionX>.4</PositionX>
+	<PositionY>.95</PositionY>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+<cardfunction>
+	<label>Clear</label>
+	<kind>CLEARCARD</kind>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+<cardfunction>
+	<label>Change Control</label>
+	<kind>CHANGEOWNER</kind>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+<definition>
+	<kind>REUSECARDIMAGES</kind>
+</definition>
+<definition>
+	<kind>ISYOURFACEDOWNVISIBLE</kind>
+</definition>
+<definition>
+	<kind>ISSTACKEDCARDSFLAT</kind>
+</definition>
+<definition>
+	<kind>ISALLOWINGMULTIPLECARDBACKS</kind>
+</definition>
+<definition>
+	<kind>MULTIPLECARDBACKSNAMESVISIBLETO</kind>
+	<value>owner</value>
+</definition>
+</plugin>
