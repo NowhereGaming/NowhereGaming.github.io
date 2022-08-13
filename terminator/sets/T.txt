@@ -135,8 +135,8 @@ Hypersonic Emitter	T	T133	Item - SkyNet	C				2
 Inconsequential	T	T134	Event	C				
 Industrial Sabotage	T	T135	Event	U				
 Ineffective Weaponry	T	T136	Event	C				
-Infiltrator	T	T137	Character - Main: SkyNet	C	4	7	3	6
-Infiltrator Assembly Plant	T	T138	Location: Interior	R				
+Infiltrator	T	T138	Character - Main: SkyNet	C	4	7	3	6
+Infiltrator Assembly Plant	T	T137	Location: Interior	R				
 Inhuman Resilience	T	T139	Event	C				
 Inspiration	T	T140	Event	R				
 Interrogation Room	T	T141	Location: Interior	R				
