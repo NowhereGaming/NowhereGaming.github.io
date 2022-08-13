@@ -347,3 +347,5 @@ What's the Date?	T	T345	Event	U
 When Animals Attack	T	T346	Event	R				
 When In Doubt	T	T347	Event	C				
 Your Clothes...	T	T348	Event	C				
+Hidden Real Token	T	"T349, T349b"	Token					
+Hidden Decoy Token	T	"T350, T350b"	Token					
