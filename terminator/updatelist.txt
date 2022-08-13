@@ -1,16 +1,12 @@
 terminator	08-17-22
-plugins/terminator/version.txt	https://NowhereGaming.github.io/terminator/version.txt	24506
-plugins/terminator/defaultchat.txt	https://NowhereGaming.github.io/terminator/defaultchat.txt	25474
-plugins/terminator/plugininfo.txt	https://NowhereGaming.github.io/terminator/plugininfo.txt	751593
-plugins/terminator/changelog.txt	https://NowhereGaming.github.io/terminator/changelog.txt	2569
-plugins/terminator/uninstall.txt	https://NowhereGaming.github.io/terminator/uninstall.txt	2569
-plugins/terminator/sets/T.txt	https://NowhereGaming.github.io/terminator/sets/T.txt	2489479
-plugins/terminator/sets/setimages/general/Spawned.jpg	https://NowhereGaming.github.io/terminator/sets/General/spawned.jpg	417722
-plugins/terminator/sets/setimages/general/cardback.jpg	https://NowhereGaming.github.io/terminator/sets/General/cardback.jpg	351129
-plugins/zombie/packs/packdefinitions1.xml	https://NowhereGaming.github.io/terminator/packs/packdefinitions1.xml
-plugins/zombie/packs/tbooster.jpg	https://NowhereGaming.github.io/terminator/packs/tbooster.jpg
-plugins/zombie/packs/rstarter.jpg	https://NowhereGaming.github.io/terminator/packs/rstarter.jpg
-plugins/zombie/packs/sstarter.jpg	https://NowhereGaming.github.io/terminator/packs/sstarter.jpg
-
-CardGeneralURLs:		
-https://NowhereGaming.github.io/terminator/sets/General/
+plugins/terminator/version.txt	https://NowhereGaming.github.io/terminator/version.txt	23085
+plugins/terminator/defaultchat.txt	https://NowhereGaming.github.io/terminator/defaultchat.txt	18515
+plugins/terminator/plugininfo.txt	https://NowhereGaming.github.io/terminator/plugininfo.txt	375104
+plugins/terminator/changelog.txt	https://NowhereGaming.github.io/terminator/changelog.txt	4172
+plugins/terminator/uninstall.txt	https://NowhereGaming.github.io/terminator/uninstall.txt	29664
+plugins/terminator/sets/T.txt	https://NowhereGaming.github.io/terminator/sets/T.txt	1081509
+plugins/terminator/sets/setimages/general/Spawned.jpg	https://NowhereGaming.github.io/terminator/sets/General/spawned.jpg	334085
+plugins/terminator/sets/setimages/general/cardback.jpg	https://NowhereGaming.github.io/terminator/sets/General/cardback.jpg	286997
+plugins/terminator/packs/packdefinitions1.xml	https://NowhereGaming.github.io/terminator/packs/packdefinitions1.xml	814296
+https://NowhereGaming.github.io/terminator/packs/tbooster.jpg	plugins/terminator/packs/rstarter.jpg	0
+plugins/terminator/packs/sstarter.jpg	https://NowhereGaming.github.io/terminator/packs/sstarter.jpg	3621
