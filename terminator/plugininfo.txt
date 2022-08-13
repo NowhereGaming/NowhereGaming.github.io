@@ -13,19 +13,29 @@
 </playerstat>
 
 <deckzone>
-     <label>Draw Deck</label>
-     <gamezonetoloadto>Deck</gamezonetoloadto>
-     <shuffle>yes</shuffle>
-</deckzone>
-<deckzone>
      <label>Locations</label>
      <gamezonetoloadto>Locations</gamezonetoloadto>
      <shuffle>no</shuffle>
+</deckzone>
+<deckzone>
+     <label>Draw Deck</label>
+     <gamezonetoloadto>Draw Deck</gamezonetoloadto>
+     <shuffle>yes</shuffle>
+</deckzone>
+<deckzone>
+     <label>Starting Cards</label>
+     <gamezonetoloadto>Starting Cards</gamezonetoloadto>
+     <shuffle>yes</shuffle>
 </deckzone>
 
 <gamezone>
      <label>Hand</label>
      <visibletoowner>yes</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+</gamezone>
+<gamezone>
+     <label>Locations</label>
+     <visibletoowner>no</visibletoowner>
      <visibletoothers>no</visibletoothers>
 </gamezone>
 <gamezone>
@@ -44,13 +54,8 @@
      <visibletoothers>yes</visibletoothers>
 </gamezone>
 <gamezone>
-     <label>Locations</label>
-     <visibletoowner>no</visibletoowner>
-     <visibletoothers>no</visibletoothers>
-</gamezone>
-<gamezone>
-     <label>Objectives</label>
-     <visibletoowner>no</visibletoowner>
+     <label>Starting Cards</label>
+     <visibletoowner>yes</visibletoowner>
      <visibletoothers>no</visibletoothers>
 </gamezone>
 
