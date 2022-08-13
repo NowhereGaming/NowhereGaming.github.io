@@ -425,3 +425,123 @@ Target Engines	P	p423		Tactic
 Target Shields	P	p424		Tactic																
 Target These Coordinates	P	p425		Tactic																
 Target Weapons	P	p426		Tactic																
+A Royal Hunt	AOY	aoy001		Dilemma																
+Arena	AOY	aoy002		Dilemma																
+Barrier's Effect	AOY	aoy003		Dilemma																
+Biochemical Hyperacceleration	AOY	aoy004		Dilemma																
+Casualties	AOY	aoy005		Dilemma																
+Distress Call	AOY	aoy006		Dilemma																
+Excalbian Drama	AOY	aoy007		Dilemma																
+Fesarius Bluff	AOY	aoy008		Dilemma																
+Gangster's Welcome	AOY	aoy009		Dilemma																
+Gorgan	AOY	aoy010		Dilemma																
+History Repeats Itself	AOY	aoy011		Dilemma																
+Infestation	AOY	aoy012		Dilemma																
+Kelvan Show of Force	AOY	aoy013		Dilemma																
+Lack of Preparation	AOY	aoy014		Dilemma																
+Lawgivers	AOY	aoy015		Dilemma																
+Mark of Gideon	AOY	aoy016		Dilemma																
+Moment of Doubt	AOY	aoy017		Dilemma																
+Mugato	AOY	aoy018		Dilemma																
+Neural Parasites	AOY	aoy019		Dilemma																
+No Kill I	AOY	aoy020		Dilemma																
+Paranoid Escape	AOY	aoy021		Dilemma																
+Psychokinetic Control	AOY	aoy022		Dilemma																
+Short Circuit	AOY	aoy023		Dilemma																
+Side by Side	AOY	aoy024		Dilemma																
+Silent Attack	AOY	aoy025		Dilemma																
+Swashbuckler at Heart	AOY	aoy026		Dilemma																
+Sylvia	AOY	aoy027		Dilemma																
+Sympathetic Magic	AOY	aoy028		Dilemma																
+Talosian Trial	AOY	aoy029		Dilemma																
+Trelane's Trial	AOY	aoy030		Dilemma																
+Vault of Tomorrow	AOY	aoy031		Dilemma																
+Vian Test	AOY	aoy032		Dilemma																
+Your Moment is Fading	AOY	aoy033		Dilemma																
+Condition Red	AOY	aoy034		Event																
+Final Cry	AOY	aoy035		Event																
+Five Year Mission	AOY	aoy036		Event																
+Legal Proceedings	AOY	aoy037		Event																
+Mudd's Women	AOY	aoy038		Event																
+Parallel Course	AOY	aoy039		Event																
+Pickpocket	AOY	aoy040		Event																
+Sling-Shot Effect	AOY	aoy041		Event																
+The Edge of Forever	AOY	aoy042		Event																
+The Enterprise Incident	AOY	aoy043		Event																
+The Orion Underworld	AOY	aoy044		Event																
+Are You Brain Dead?!	AOY	aoy045		Interrupt																
+Driven	AOY	aoy046		Interrupt																
+One-Upsmanship	AOY	aoy047		Interrupt																
+Amerind	AOY	aoy048		Location																
+Deep Space K-7	AOY	aoy049		Location																
+Memory Alpha	AOY	aoy050		Location																
+Sector Z-6	AOY	aoy051		Location																
+Time Vortex Planet	AOY	aoy052		Location																
+Border Incursion	AOY	aoy053		Objective																
+Historical Research	AOY	aoy054		Objective																
+Monitor Commerce	AOY	aoy055		Objective																
+Secure Strategic Base	AOY	aoy056		Objective																
+Angela Martine	AOY	aoy057		Personnel					Alpha	Federation										
+Areel Shaw	AOY	aoy058		Personnel					Alpha	Federation										
+Benjamin Finney	AOY	aoy059		Personnel					Alpha	Federation										
+Carolyn Palamas	AOY	aoy060		Personnel					Alpha	Federation										
+Christine Chapel	AOY	aoy061		Personnel					Alpha	Federation										
+Evans	AOY	aoy062		Personnel					Alpha	Federation										
+Garth of Izar	AOY	aoy063		Personnel					Alpha	Federation										
+Gary Mitchell	AOY	aoy064		Personnel					Alpha	Federation										
+George Stocker	AOY	aoy065		Personnel					Alpha	Federation										
+Hikaru Sulu	AOY	aoy066		Personnel					Alpha	Federation										
+James T. Kirk	AOY	aoy067		Personnel					Alpha	Federation										
+Janice Rand	AOY	aoy068		Personnel					Alpha	Federation										
+Josephs	AOY	aoy069		Personnel					Alpha	Federation										
+Leonard H. McCoy	AOY	aoy070		Personnel					Alpha	Federation										
+Mark Piper	AOY	aoy071		Personnel					Alpha	Federation										
+Marlena Moreau	AOY	aoy072		Personnel					Alpha	Federation										
+Mathews	AOY	aoy073		Personnel					Alpha	Federation										
+Matt Decker	AOY	aoy074		Personnel					Alpha	Federation										
+Montgomery Scott	AOY	aoy075		Personnel					Alpha	Federation										
+Nyota Uhura	AOY	aoy076		Personnel					Alpha	Federation										
+Palmer	AOY	aoy077		Personnel					Alpha	Federation										
+Pavel A. Chekov	AOY	aoy078		Personnel					Alpha	Federation										
+Richard Daystrom	AOY	aoy079		Personnel					Alpha	Federation										
+Robert Tomlinson	AOY	aoy080		Personnel					Alpha	Federation										
+Spock	AOY	aoy081		Personnel					Alpha	Federation										
+Kahless	AOY	aoy082		Personnel					Alpha	Klingon										
+Kang	AOY	aoy083		Personnel					Alpha	Klingon										
+Khod	AOY	aoy084		Personnel					Alpha	Klingon										
+Koloth	AOY	aoy085		Personnel					Alpha	Klingon										
+Kor	AOY	aoy086		Personnel					Alpha	Klingon										
+Korax	AOY	aoy087		Personnel					Alpha	Klingon										
+Kras	AOY	aoy088		Personnel					Alpha	Klingon										
+Mara	AOY	aoy089		Personnel					Alpha	Klingon										
+Cyrano Jones	AOY	aoy090		Personnel					Alpha	Non-Aligned										
+Gaard	AOY	aoy091		Personnel					Alpha	Non-Aligned										
+Gav	AOY	aoy092		Personnel					Alpha	Non-Aligned										
+Gem	AOY	aoy093		Personnel					Alpha	Non-Aligned										
+Harcourt Fenton Mudd	AOY	aoy094		Personnel					Alpha	Non-Aligned										
+Khan Noonien Singh	AOY	aoy095		Personnel					Alpha	Non-Aligned										
+Marta	AOY	aoy096		Personnel					Alpha	Non-Aligned										
+Rayna Kapec	AOY	aoy097		Personnel					Alpha	Non-Aligned										
+Ruk	AOY	aoy098		Personnel					Alpha	Non-Aligned										
+S'Salk	AOY	aoy099		Personnel					Alpha	Non-Aligned										
+Charvanek	AOY	aoy100		Personnel					Alpha	Romulan										
+Keras	AOY	aoy101		Personnel					Alpha	Romulan										
+T'Auethn	AOY	aoy102		Personnel					Alpha	Romulan										
+Tal	AOY	aoy103		Personnel					Alpha	Romulan										
+U.S.S. Constellation	AOY	aoy104		Ship					Alpha	Federation										
+U.S.S. Constitution	AOY	aoy105		Ship					Alpha	Federation										
+U.S.S. Enterprise	AOY	aoy106		Ship					Alpha	Federation										
+D-7 Battlecruiser	AOY	aoy107		Ship					Alpha	Klingon										
+Hard Bargin	AOY	aoy108		Ship					Alpha	Non-Aligned										
+Bird-of-Prey	AOY	aoy109		Ship					Alpha	Romulan										
+Gal Gath'thong	AOY	aoy110		Ship					Alpha	Romulan										
+Memenda	AOY	aoy111		Ship					Alpha	Romulan										
+M-5 Multitronic Unit	AOY	aoy112		System																
+Corbomite Maneuver	AOY	aoy113		Tactic																
+Frontal Assault	AOY	aoy114		Tactic																
+Phaser Banks	AOY	aoy115		Tactic																
+Primary Plasma Weapon	AOY	aoy116		Tactic																
+Christopher Pike	AOY	aoy117p		Personnel					Alpha	Federation										
+Spock	AOY	aoy118p		Personnel					Alpha	Federation										
+Una Chin-Riley	AOY	aoy119p		Personnel					Alpha	Federation										
+U.S.S. Enterprise	AOY	aoy120p		Ship					Alpha	Federation										
