@@ -9,7 +9,7 @@
 </playerstat>
 <playerstat>
 	<label>Combat Counters</label>
-	<initialvalue>7</initialvalue>
+	<initialvalue>3</initialvalue>
 </playerstat>
 
 <deckzone>
