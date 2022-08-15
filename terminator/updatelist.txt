@@ -8,7 +8,7 @@ plugins/terminator/sets/T.txt	https://NowhereGaming.github.io/terminator/sets/T.
 plugins/terminator/sets/setimages/general/Spawned.jpg	https://NowhereGaming.github.io/terminator/sets/setimages/General/spawned.jpg	334085
 plugins/terminator/sets/setimages/general/cardback.jpg	https://NowhereGaming.github.io/terminator/sets/setimages/General/cardback.jpg	286997
 plugins/terminator/packs/packdefinitions1.xml	https://NowhereGaming.github.io/terminator/packs/packdefinitions1.xml	814296
-plugins/terminator/packs/rstarter.jpg	https://NowhereGaming.github.io/terminator/packs/tbooster.jpg	-2727984
+plugins/terminator/packs/rstarter.jpg	https://NowhereGaming.github.io/terminator/packs/rstarter.jpg	-2727984
 plugins/terminator/packs/sstarter.jpg	https://NowhereGaming.github.io/terminator/packs/sstarter.jpg	-3274046
 plugins/terminator/packs/tbooster.jpg	https://NowhereGaming.github.io/terminator/packs/tbooster.jpg	-691821
 CardGeneralURLs:
