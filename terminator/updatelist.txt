@@ -1,15 +1,15 @@
 terminator	08-17-22
-plugins/terminator/version.txt	https://NowhereGaming.github.io/terminator/version.txt	23085
+plugins/terminator/version.txt	https://NowhereGaming.github.io/terminator/version.txt	23083
 plugins/terminator/defaultchat.txt	https://NowhereGaming.github.io/terminator/defaultchat.txt	18515
-plugins/terminator/plugininfo.txt	https://NowhereGaming.github.io/terminator/plugininfo.txt	375104
+plugins/terminator/plugininfo.txt	https://NowhereGaming.github.io/terminator/plugininfo.txt	445390
 plugins/terminator/changelog.txt	https://NowhereGaming.github.io/terminator/changelog.txt	4172
 plugins/terminator/uninstall.txt	https://NowhereGaming.github.io/terminator/uninstall.txt	29664
-plugins/terminator/sets/T.txt	https://NowhereGaming.github.io/terminator/sets/T.txt	1081509
+plugins/terminator/sets/T.txt	https://NowhereGaming.github.io/terminator/sets/T.txt	1091797
 plugins/terminator/sets/setimages/general/Spawned.jpg	https://NowhereGaming.github.io/terminator/sets/setimages/General/spawned.jpg	334085
 plugins/terminator/sets/setimages/general/cardback.jpg	https://NowhereGaming.github.io/terminator/sets/setimages/General/cardback.jpg	286997
 plugins/terminator/packs/packdefinitions1.xml	https://NowhereGaming.github.io/terminator/packs/packdefinitions1.xml	814296
-plugins/terminator/packs/rstarter.jpg	https://NowhereGaming.github.io/terminator/packs/tbooster.jpg	0
-plugins/terminator/packs/sstarter.jpg	https://NowhereGaming.github.io/terminator/packs/sstarter.jpg	3621
-plugins/terminator/packs/tbooster.jpg	https://NowhereGaming.github.io/terminator/packs/tbooster.jpg
+plugins/terminator/packs/rstarter.jpg	https://NowhereGaming.github.io/terminator/packs/tbooster.jpg	-2727984
+plugins/terminator/packs/sstarter.jpg	https://NowhereGaming.github.io/terminator/packs/sstarter.jpg	-3274046
+plugins/terminator/packs/tbooster.jpg	https://NowhereGaming.github.io/terminator/packs/tbooster.jpg	-691821
 CardGeneralURLs:
 https://NowhereGaming.github.io/terminator/sets/setimages/General/
