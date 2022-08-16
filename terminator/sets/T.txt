@@ -41,7 +41,7 @@ Blown Power Grid	T	T039	Event	U
 Bonefields	T	T040	Location: Exterior	R				
 Braced For Impact	T	T041	Event	R				
 Bullet-Proof Vest	T	T042	Item	S				
-Casting	T	T043	Event	R				2
+Castling	T	T043	Event	R				2
 Caught Off-Guard	T	T044	Event	S				
 Chain Link Fence	T	T045	Event	C				
 City Park	T	T046	Location: Exterior	S				
@@ -347,7 +347,4 @@ What's the Date?	T	T345	Event	U
 When Animals Attack	T	T346	Event	R				
 When In Doubt	T	T347	Event	C				
 Your Clothes...	T	T348	Event	C				
-Hidden Token 1	T	"T349,T349b"	Token					
-Hidden Token 2	T	"T350,T350b"	Token					
-Hidden Token 3	T	"T351,T351b"	Token					
-Hidden Token 4	T	"T352,T352b"	Token					
+Hidden Token	T	T349,T349b	Token					
