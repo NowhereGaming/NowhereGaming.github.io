@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>220817</lastupdateYYMMDD>
+<lastupdateYYMMDD>220818</lastupdateYYMMDD>
 <versionurl>https://NowhereGaming.github.io/terminator/version.txt</versionurl>
 <updateurl>https://NowhereGaming.github.io/terminator/updatelist.txt</updateurl>
-<message></message>
+<message>Version 1.1 - Fixed issues with card images not loading.</message>
 </version>

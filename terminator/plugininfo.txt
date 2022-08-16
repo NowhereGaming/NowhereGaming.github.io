@@ -161,6 +161,20 @@
 	<includeasbutton>yes</includeasbutton>
 </cardfunction>
 <cardfunction>
+	<label>Resolve +1</label>
+	<kind>ADDCOUNTER</kind>
+	<color>purple</color>
+	<PositionX>.5</PositionX>
+	<PositionY>.04</PositionY>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+<cardfunction>
+	<label>Resolve -1</label>
+	<kind>REMOVECOUNTER</kind>
+	<color>purple</color>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+<cardfunction>
 	<label>Edit Note</label>
 	<kind>EDITNOTE</kind>
 	<PositionX>.4</PositionX>

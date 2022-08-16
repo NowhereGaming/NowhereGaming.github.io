@@ -1,4 +1,4 @@
-terminator	08-17-22
+terminator	08-18-22
 plugins/terminator/version.txt	https://NowhereGaming.github.io/terminator/version.txt	23085
 plugins/terminator/defaultchat.txt	https://NowhereGaming.github.io/terminator/defaultchat.txt	18515
 plugins/terminator/plugininfo.txt	https://NowhereGaming.github.io/terminator/plugininfo.txt	445390
