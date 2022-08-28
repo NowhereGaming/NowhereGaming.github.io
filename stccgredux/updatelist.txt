@@ -1,4 +1,4 @@
-stccgredux	03-04-22
+stccgredux	08-01-22
 plugins/stccgredux/version.txt	https://NowhereGaming.github.io/stccgredux/version.txt	24506
 plugins/stccgredux/defaultchat.txt	https://NowhereGaming.github.io/stccgredux/defaultchat.txt	25474
 plugins/stccgredux/plugininfo.txt	https://NowhereGaming.github.io/stccgredux/plugininfo.txt	751593

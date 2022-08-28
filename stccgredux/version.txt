@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>220304</lastupdateYYMMDD>
+<lastupdateYYMMDD>220801</lastupdateYYMMDD>
 <versionurl>https://NowhereGaming.github.io/stccgredux/version.txt</versionurl>
 <updateurl>https://NowhereGaming.github.io/stccgredux/updatelist.txt</updateurl>
-<message>Updated several card images to correct flavor text errors</message>
+<message>All Our Yesterdays Released!</message>
 </version>
